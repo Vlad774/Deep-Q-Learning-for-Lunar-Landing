@@ -32,8 +32,8 @@ Diagram: <br/>
 <img src="[https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Creating%20Users%20script.jpg](https://github.com/Vlad774/ActiveDirectoryLab/blob/main/diagram.jpg)"/>
 <br />
 <br />
-Creating Users Script:  <br/>
-<img src="https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Creating%20Users%20script.jpg"/>
+First try: Episodes - 904 | Score rate - 200.65 :  <br/>
+<img src="https://github.com/Vlad774/Deep-Q-Learning-for-Lunar-Landing/blob/main/AutoLanding_v1.gif"/>
 <br />
 <br />
 Login with Automated Users: <br/>
