@@ -32,16 +32,20 @@ Diagram: <br/>
 <img src="[https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Creating%20Users%20script.jpg](https://github.com/Vlad774/ActiveDirectoryLab/blob/main/diagram.jpg)"/>
 <br />
 <br />
-First try: Episodes - 904 | Score rate - 200.65 :  <br/>
+First try: Episodes - 904 | Score rate - 200.65  <br/>
 <img src="https://github.com/Vlad774/Deep-Q-Learning-for-Lunar-Landing/blob/main/AutoLanding_v1.gif"/>
 <br />
 <br />
-Login with Automated Users: <br/>
-<img src="https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Login_with_Automated_users.jpg"/>
+Second try: Episodes - 360 | Score rate - 201.64 <br/>
+<img src="https://github.com/Vlad774/Deep-Q-Learning-for-Lunar-Landing/blob/main/AutoLanding_v2.gif"/>
 <br />
 <br />
-Successful Remote Login:  <br/>
-<img src="https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Success_login.jpg"/>
+Third try: Episodes - 299 | Score rate - 201.33  <br/>
+<img src="https://github.com/Vlad774/Deep-Q-Learning-for-Lunar-Landing/blob/main/AutoLanding_v3.gif"/>
+<br />
+<br />
+Four try: Episodes - 364 | Score rate - 202.72  <br/>
+<img src="https://github.com/Vlad774/Deep-Q-Learning-for-Lunar-Landing/blob/main/AutoLanding_v4.gif"/>
 
 
 </p>
